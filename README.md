@@ -1,3 +1,5 @@
+![logo](https://github.com/LungsomLamnio/LungsomLamnio/blob/main/github_profile_banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Lungsom Lamnio</h1>
 <h3 align="center">I’m a passionate and solution-driven Computer Science Engineering student at Assam Downtown University, currently serving as the Web Development Lead for Google Developers Group (GDG) on Campus.</h3>
 

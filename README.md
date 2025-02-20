@@ -30,18 +30,11 @@ I'm a **MERN Stack Developer** passionate about building scalable and efficient 
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/WebSockets-0082C9?style=for-the-badge&logo=websocket&logoColor=white)
 
-### **Database & Tools:**
+### **Database:**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### **AI & ML:**
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Gemma API](https://img.shields.io/badge/Gemma_API-34A853?style=for-the-badge&logo=google&logoColor=white)
-![VGG16 Model](https://img.shields.io/badge/VGG16_Model-FF5733?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🔥 Featured Projects
 - 🏡 **[Wanderlust](https://github.com/LungsomLamnio/wanderlust)** - Airbnb-like platform for listing restaurants, hotels, and travel spots.

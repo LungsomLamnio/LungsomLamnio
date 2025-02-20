@@ -39,6 +39,10 @@ I'm a **MERN Stack Developer** passionate about building scalable and efficient 
 ### **Server:**
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
+### **Testing:**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Hoppscotch](https://img.shields.io/badge/Hoppscotch-31C48D?style=for-the-badge&logo=hoppscotch&logoColor=white)
+
 ## 🔥 Featured Projects
 - 🏡 **[Wanderlust](https://github.com/LungsomLamnio/wanderlust)** - Airbnb-like platform for listing restaurants, hotels, and travel spots.
 - 🛍 **[E-Commerce for Local Artisans](https://github.com/LungsomLamnio/ecommerce-artisans)** - A digital platform to support local craftsmen.

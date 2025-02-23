@@ -40,7 +40,16 @@ Tools & Technologies
 
 ![](https://github-profile-trophy.vercel.app/?username=LungsomLamnio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 📫 Connect with Me
+##
+
+<div>
+
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> 
+  <h1>
+Connect With Me 
+  </h1>
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lungsom-lamnio)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)

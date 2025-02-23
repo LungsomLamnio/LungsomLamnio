@@ -22,21 +22,14 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=LungsomLamnio&show_icons=true&theme=tokyonight"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LungsomLamnio&layout=compact&theme=tokyonight"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=LungsomLamnio&show_icons=true&count_private=true&theme=tokyonight"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=LungsomLamnio&theme=blueberry_duo"/></td>
   </tr>
 </table>
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=LungsomLamnio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=LungsomLamnio&show_icons=true&count_private=true&theme=tokyonight"></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=LungsomLamnio&theme=blueberry_duo"/></td>
-  </tr>
-</table>
 
 ## 📫 Connect with Me
 

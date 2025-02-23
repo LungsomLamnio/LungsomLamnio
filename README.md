@@ -42,7 +42,7 @@ Tools & Technologies
 
 ##
 
-<div>
+<div align="center">
 
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> 
   <h1>

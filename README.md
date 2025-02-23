@@ -1,4 +1,4 @@
-<img src="./assets/banner.png">
+<img src="./assets/banner.png" width="100%">
 
 # Hi there, I'm Lungsom Lamnio! 👋
 

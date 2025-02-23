@@ -62,6 +62,10 @@ Connect With Me
 <div align="center">
   <h1>Today's Inspiration</h1>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day">
+  <div align="center">Visitors count</div>
+      <div align="center">
+        <img src="https://profile-counter.glitch.me/LungsomLamniov/count.svg"/>
+      </div>
 </div>
 
 ##

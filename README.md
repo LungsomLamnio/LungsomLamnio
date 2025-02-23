@@ -39,6 +39,9 @@ I'm a **MERN Stack Developer** passionate about building scalable and efficient 
 ![Lungsom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LungsomLamnio&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LungsomLamnio&layout=compact&theme=tokyonight)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LungsomLamnio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />

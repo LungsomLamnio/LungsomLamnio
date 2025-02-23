@@ -27,7 +27,7 @@ Tools & Technologies
 | **Design & Multimedia**   | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | **Hosting & Deployment**  | ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
-##
+---
 
 <table>
   <tr>
@@ -36,11 +36,11 @@ Tools & Technologies
   </tr>
 </table>
 
-## 🏆 GitHub Trophies
+---
 
 ![](https://github-profile-trophy.vercel.app/?username=LungsomLamnio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-##
+---
 
 <div align="center">
 
@@ -57,11 +57,9 @@ Connect With Me
 
 ---
 
-### ✍️ Random Dev Quote
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-##
+--
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />

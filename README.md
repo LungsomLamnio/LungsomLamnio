@@ -7,7 +7,7 @@
 
 <p align="center">I specialize in building scalable web applications and love solving real-world problems through code. Currently, I’m working on AI-integrated projects and developing innovative solutions in e-commerce and automation. I actively contribute to open-source, participate in hackathons, and enjoy collaborating with like-minded developers. When I’m not coding, you’ll find me exploring new technologies, mentoring juniors, or refining my problem-solving skills with DSA. Always open to exciting opportunities and meaningful collaborations!</p>
 
-## 🖥️ Tech Stack
+---
 
 | Category                  | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -20,18 +20,10 @@
 | **Design & Multimedia**   | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | **Hosting & Deployment**  | ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
-## 🔥 Featured Projects
-
-- 🏡 **[Wanderlust](https://github.com/LungsomLamnio/wanderlust)** - Airbnb-like platform for listing restaurants, hotels, and travel spots.
-- 🛍 **[E-Commerce for Local Artisans](https://github.com/LungsomLamnio/ecommerce-artisans)** - A digital platform to support local craftsmen.
-- 📡 **[Intelligent Traffic Management System (ITMS)](https://github.com/LungsomLamnio/itms)** - AI-powered traffic control using Google Maps API & IoT.
-- 💬 **[PingUp - Chat Application](https://github.com/LungsomLamnio/pingup)** - A WhatsApp-like chat app built using the MERN stack.
-- 🌱 **[Plant Disease Detection App](https://github.com/LungsomLamnio/plant-disease-ai)** - AI-powered plant disease detection using TensorFlow.js & Gemini API.
-
 ## 📈 GitHub Stats
 
-![Lungsom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LungsomLamnio&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LungsomLamnio&layout=compact&theme=tokyonight)
+![Lungsom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LungsomLamnio&show_icons=true&theme=tokyonight&card_width=450)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LungsomLamnio&layout=compact&theme=tokyonight&card_width=450)
 
 ## 🏆 GitHub Trophies
 

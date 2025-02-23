@@ -20,12 +20,10 @@
 | **Design & Multimedia**   | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | **Hosting & Deployment**  | ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
-## 📈 GitHub Stats
-
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=LungsomLamnio&show_icons=true&theme=tokyonight" width="47%"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LungsomLamnio&layout=compact&theme=tokyonight" width="47%"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=LungsomLamnio&show_icons=true&theme=tokyonight"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LungsomLamnio&layout=compact&theme=tokyonight"></td>
   </tr>
 </table>
 

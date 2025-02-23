@@ -1,3 +1,4 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img src="./assets/banner.png" width="100%">
 
 # Hi there, I'm Lungsom Lamnio! 👋

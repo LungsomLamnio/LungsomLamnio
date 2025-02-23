@@ -9,7 +9,7 @@
 
 ##
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXltejFxMzV3eTg1cm9tcmYzbDB0M250bXI5czZjajJhbnl3NXd6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif&rid=giphy.gif" width="50px"> 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXltejFxMzV3eTg1cm9tcmYzbDB0M250bXI5czZjajJhbnl3NXd6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="50px"> 
   <h1>
 Tools & Technologies
   </h1>

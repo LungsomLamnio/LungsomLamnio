@@ -82,4 +82,5 @@ I'm a **MERN Stack Developer** passionate about building scalable and efficient 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
 
 ---
-💡 *"Code, Innovate, Repeat!"* 🚀
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

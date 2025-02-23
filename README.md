@@ -34,7 +34,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=LungsomLamnio&show_icons=true&count_private=true&theme=tokyonight"></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=LungsomLamnio&theme=blueberry_duo"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=LungsomLamnio&theme=blueberry_duo" width="100%"/></td>
   </tr>
 </table>
 

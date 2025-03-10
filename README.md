@@ -35,19 +35,6 @@
 
 ##
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=LungsomLamnio&show_icons=true&count_private=true&theme=tokyonight"></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=LungsomLamnio&theme=blueberry_duo&v=1"/></td>
-  </tr>
-</table>
-
-##
-
-![](https://github-profile-trophy.vercel.app/?username=LungsomLamnio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-##
-
 <div align="center">
     <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> 
   <h1>
@@ -61,7 +48,21 @@ Let’s Connect!
     <a href="https://leetcode.com/u/Lungsom/"><img src="https://img.shields.io/badge/-Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
     <a href="https://lungsomlamnio.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   </p>
-</div> 
+</div>
+
+##
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=LungsomLamnio&show_icons=true&count_private=true&theme=tokyonight"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=LungsomLamnio&theme=blueberry_duo&v=1"/></td>
+  </tr>
+</table>
+
+##
+
+![](https://github-profile-trophy.vercel.app/?username=LungsomLamnio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+ 
 
 ##
 

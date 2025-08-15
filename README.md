@@ -73,7 +73,9 @@ Let’s Connect!
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day">
   <div align="center">Visitors count</div>
       <div align="center">
-        ![Visitors](https://kounter.vercel.app/api/LungsomLamnio)
+        <p align="center">
+          <img src="https://komarev.com/ghpvc/?username=LungsomLamnio&style=for-the-badge" alt="Profile views"/>
+        </p>
       </div>
 </div>
 

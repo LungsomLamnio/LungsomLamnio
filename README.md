@@ -74,7 +74,7 @@ Let’s Connect!
   <div align="center">Visitors count</div>
       <div align="center">
         <p align="center">
-          <img src="https://komarev.com/ghpvc/?username=LungsomLamnio&style=for-the-badge" alt="Profile views"/>
+          <img src="https://kounter.vercel.app/api/LungsomLamnio?style=for-the-badge" alt="Visitors"/>
         </p>
       </div>
 </div>

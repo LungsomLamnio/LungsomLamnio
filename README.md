@@ -1,110 +1,90 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF6C&height=250&section=header&text=LUNGSOM%20LAMNIO&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Architecting%20Scalable%20Solutions%20|%20Full%20Stack%20|%20AI%20Explorer&descAlignY=62&descSize=20" width="100%" alt="Header Banner" />
-</p>
+<img src="./assets/banner.png" width="100%">
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=00FF6C&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Web+Developer;Open+Source+Contributor;AI/ML+Integration+Expert" alt="Typing Title" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=1000&color=00FF6C&center=true&vCenter=true&width=700&height=60&lines=Hey!+it's+Lungsom+%F0%9F%91%8B;Full+Stack+Web+Developer;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
-<p align="center">
-  Specializing in building robust, scalable web applications and solving real-world challenges through code. Current focus lies in integrating AI-integrated solutions and developing innovative tools for e-commerce and automation. Passionate about open-source contribution and technical collaboration.
-</p>
+<p align="center">I specialize in building scalable web applications and love solving real-world problems through code. Currently, I’m working on AI-integrated projects and developing innovative solutions in e-commerce and automation. I actively contribute to open-source, participate in hackathons, and enjoy collaborating with like-minded developers. When I’m not coding, you’ll find me exploring new technologies, mentoring juniors, or refining my problem-solving skills with DSA. Always open to exciting opportunities and meaningful collaborations!</p>
 
-<br/>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LungsomLamnio&theme=radical&column=7&margin-w=10&margin-h=10&no-bg=true" alt="Trophies" />
-</div>
+##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LungsomLamnio&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=00FF6C&icon_color=00FF6C" alt="Github Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LungsomLamnio&theme=tokyonight&hide_border=true&stroke=00FF6C&ring=00FF6C&fire=00FF6C" alt="Github Streak Stats" />
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> 
+  <h1>
+    Technologies & Tools I Work With
+  </h1>
+
+
+| **Category** | **Technologies** |
+|---|---|
+| **Programming Languages** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=objective-c&logoColor=white) ![Objective-C++](https://img.shields.io/badge/Objective--C++-438EFF?style=for-the-badge&logo=objective-c&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) |
+| **Frontend Development** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logo=ejs&logoColor=white) |
+| **Backend Development** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-D22128?style=for-the-badge&logo=apache-tomcat&logoColor=white) |
+| **Mobile App Development** | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) **![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)** |
+| **AI/ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![IndexedDB](https://img.shields.io/badge/IndexedDB-FFA500?style=for-the-badge&logo=googlechrome&logoColor=white) |
+| **DevOps & Testing** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-1E2A3A?style=for-the-badge&logo=hoppscotch&logoColor=white) **![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)** |
+| **Cloud Platforms** | ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![Cloudinary](https://img.shields.io/badge/Cloudinary-FFBB00?style=for-the-badge&logo=cloudinary&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-FF0000?style=for-the-badge&logo=twilio&logoColor=white) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| **Hosting & Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) |
+| **IDEs & Editors** | ![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) |
+| **UI/UX & Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
+
 </div>
 
-<br/>
+##
+
 <div align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35px" alt="Giphy Icon">
-  <h2>The Engineering Toolbox</h2>
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> 
+  <h1>
+Let’s Connect!
+  </h1>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/lungsom-lamnio-339914282/"><img src="https://img.shields.io/badge/-Linkedin%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://x.com/lungsom_lamnio"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://leetcode.com/u/Lungsom/"><img src="https://img.shields.io/badge/-Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+    <a href="https://lungsomlamnio.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  </p>
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Languages-00FF6C?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-</p>
+##
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Frontend-00FF6C?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=LungsomLamnio&show_icons=true&count_private=true&theme=tokyonight"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=LungsomLamnio&theme=blueberry_duo&v=1"/></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Backend%20&%20DB-00FF6C?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-</p>
+##
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Tools%20&%20Cloud-00FF6C?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05033?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=LungsomLamnio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+ 
 
-<br/>
+##
+
 <div align="center">
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" alt="Handshake">
-  <h2>Let's Collaborate!</h2>
-  <a href="https://www.linkedin.com/in/lungsom-lamnio-339914282/">
-    <img src="https://img.shields.io/badge/-Linkedin%20-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin" />
-  </a>
-  <a href="mailto:lungsom.lamnio@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://lungsomlamnio.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=flat&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
+  <h1>Today's Inspiration</h1>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day">
+  <div align="center">Visitors count</div>
+      <div align="center">
+        <p align="center">
+          <img src="https://komarev.com/ghpvc/?username=LungsomLamnio&style=for-the-badge" alt="Profile views"/>
+        </p>
+      </div>
 </div>
 
-<br/>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LungsomLamnio&label=Profile%20Views&color=00FF6C&style=flat-square" alt="Profile views"/>
-</div>
+##
 
-<br/>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  </picture>
-</div>
-
-<br/>
-<div align="center">
-  <h3>Today's Engineering Wisdom</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day">
-  <p><em>(If the quote is not loading, it usually says something witty about debugging...)</em></p>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
